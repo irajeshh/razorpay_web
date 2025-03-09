@@ -4,7 +4,7 @@ import 'dart:js_interop_unsafe' as jsinterop_unsafe;
 
 import 'package:flutter/foundation.dart';
 import 'package:razorpay_web/razorpay_web.dart';
-import 'package:universal_web/web.dart' as web;
+import 'package:web/web.dart' as web;
 
 ///A service class which only manages the payment process for better code readability
 class PayService {
